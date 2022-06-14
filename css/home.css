@@ -1,0 +1,89 @@
+/* default overrides */
+
+
+/* colors 
+Light Lime: #abd699
+
+Fresh Lemon: #ffe26a
+
+Teal: #75c9b7
+
+Mint: #c7ddcc
+
+Navy: #16123f
+
+*/
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #abd699 0%, #c7ddcc 100%);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+}
+
+hr.style1 {
+    border-top: 1px solid #ffe26a;
+    border-bottom: 1px solid #ffe26a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    /* border: 3px; */
+    color: black;
+    /* background-color: #09814A; */
+    /* background-color: #e9c46a; */
+}
+
+li a:hover {
+    color: rgb(253, 242, 220);
+}
+
+
+/* classes */
+
+.container {
+    border: 3px;
+    padding: 10px;
+}
+
+.navigation {
+    text-align: center;
+    /* border: 3px; */
+    margin: 0;
+}
+
+.content {
+    text-align: left;
+    padding: 20px;
+    border: 30px;
+    margin: 0;
+}
+
+.words {
+    color: black;
+}
