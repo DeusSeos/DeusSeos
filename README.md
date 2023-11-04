@@ -13,3 +13,5 @@ Teaching Portfolio
 5. [Week 3 - Show What You Know: Write and Explain A Program](https://youtu.be/A1E_0ihWGSY)
 
 6. [Week 4 - Show What You Know: Write and Explain A Program](https://youtu.be/ZR8yOhu80cg)
+
+7. [Week 5 - Show What You Know: Write and Explain A Program](https://youtu.be/cfKPUuuLqDw)
